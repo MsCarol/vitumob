@@ -1,5 +1,5 @@
 {
-    "name": "vitumob-bot",
+    "name": "vitumob",
     "version": "1.0.0",
     "description": "Hello Messenger Bot: sample bot for demo",
     "main": "app.js",
